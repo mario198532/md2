@@ -1,0 +1,612 @@
+#EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Top Channel HD" tvg-logo="https://i.postimg.cc/tTyPb7Ds/Top-Channel.png" group-title="Albania",AL| Top Channel HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691070
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Top Channel FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/topchannel.png" group-title="Albania",AL| Top Channel FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691069
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Teve 1" tvg-logo="" group-title="Albania",AL| Teve 1
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691068
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Alsat M" tvg-logo="https://i.postimg.cc/zBgJxkTW/Alsat-M.png" group-title="Albania",AL| Alsat M
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Alsat M FHD" tvg-logo="" group-title="Albania",AL| Alsat M FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691066
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Klan TV" tvg-logo="" group-title="Albania",AL| Klan TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691065
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Klan TV FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/klanaltvhd.png" group-title="Albania",AL| Klan TV FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691064
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Klan Plus" tvg-logo="http://138.199.27.237:8080/ALBANIA/KLANPLUS.png" group-title="Albania",AL| Klan Plus
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691063
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Klan Plus FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/klanaltvplus.png" group-title="Albania",AL| Klan Plus FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Klan Kosova FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/klankosova.png" group-title="Albania",AL| Klan Kosova FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691061
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Klan Macedonia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/klan-macedonia-al-mk.png" group-title="Albania",AL| Klan Macedonia
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691060
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Klan Macedonia HD" tvg-logo="http://logo.protv.cc/picons/logos/klanmacedonia.png" group-title="Albania",AL| Klan Macedonia HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691059
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Klan Music HD" tvg-logo="https://asiagrandiptv.us/logo//KLANMUSIC.png" group-title="Albania",AL| Klan Music HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Vizion Plus HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/vizionplus.png" group-title="Albania",AL| Vizion Plus HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Vizion Plus FHD" tvg-logo="" group-title="Albania",AL| Vizion Plus FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| KTV" tvg-logo="https://laredocordcutters.com/logos/tiv2/ktv.png" group-title="Albania",AL| KTV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691055
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| KTV FHD" tvg-logo="http://138.199.27.237:8080/ALBANIA/KTVHD.png" group-title="Albania",AL| KTV FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691054
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| TV Koha" tvg-logo="https://laredocordcutters.com/logos/tiv2/kohatval.png" group-title="Albania",AL| TV Koha
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691053
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| News 24" tvg-logo="https://laredocordcutters.com/logos/tiv2/news24al.png" group-title="Albania",AL| News 24
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691052
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| News 24 FHD" tvg-logo="" group-title="Albania",AL| News 24 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691051
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| ABC HD" tvg-logo="https://i.postimg.cc/bvNSg7ZS/ABC-News.png" group-title="Albania",AL| ABC HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691050
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| ABC News" tvg-logo="https://laredocordcutters.com/logos/tiv2/abcnewsal.png" group-title="Albania",AL| ABC News
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691049
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Ora News HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/oranewsal.png" group-title="Albania",AL| Ora News HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691048
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Top News" tvg-logo="https://laredocordcutters.com/logos/tiv2/topnews.png" group-title="Albania",AL| Top News
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691047
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Arta News FHD" tvg-logo="" group-title="Albania",AL| Arta News FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691046
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Fax News" tvg-logo="" group-title="Albania",AL| Fax News
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691045
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Top News HD" tvg-logo="" group-title="Albania",AL| Top News HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691044
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Ora News FHD" tvg-logo="" group-title="Albania",AL| Ora News FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691043
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| BBC World HD" tvg-logo="" group-title="Albania",AL| BBC World HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691042
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Scan TV" tvg-logo="" group-title="Albania",AL| Scan TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691041
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Scan TV FHD" tvg-logo="https://asiagrandiptv.us/logo/scantv.png" group-title="Albania",AL| Scan TV FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691040
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| TV1 Channel" tvg-logo="" group-title="Albania",AL| TV1 Channel
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691039
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Cnn A2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a2-al.png" group-title="Albania",AL| Cnn A2 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691038
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Report TV" tvg-logo="https://laredocordcutters.com/logos/Tiv1/a1reportal.png" group-title="Albania",AL| Report TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691037
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Report TV HD" tvg-logo="" group-title="Albania",AL| Report TV HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691036
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Çufo" tvg-logo="https://laredocordcutters.com/logos/tiv2/cufotv.png" group-title="Albania",AL| Çufo
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691035
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Çufo HD" tvg-logo="" group-title="Albania",AL| Çufo HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691034
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Bang Bang" tvg-logo="https://laredocordcutters.com/logos/tiv2/bangbang.png" group-title="Albania",AL| Bang Bang
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691033
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Sofia TV" tvg-logo="" group-title="Albania",AL| Sofia TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691032
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Fëmijë" tvg-logo="" group-title="Albania",AL| RTSH Fëmijë
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691031
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Tring" tvg-logo="https://i.postimg.cc/J761F2jv/Tring-tring.png" group-title="Albania",AL| Tring Tring
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691030
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Kids" tvg-logo="" group-title="Albania",AL| Tring Kids
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691029
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Kids HD" tvg-logo="" group-title="Albania",AL| Tring Kids HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691028
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Junior TV" tvg-logo="https://i.postimg.cc/hv7VH7Z5/RTV-21-junior.jpg" group-title="Albania",AL| Junior TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Junior TV HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78R29CpjIMUw4aAJdLEKvZuyF3RPHtV1tqbBMy4k7gZ0Eg.png" group-title="Albania",AL| Junior TV HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691026
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tip TV" tvg-logo="https://laredocordcutters.com/logos/tiv2/tiptval.png" group-title="Albania",AL| Tip TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691025
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Baby TV" tvg-logo="https://laredocordcutters.com/logos/tiv2/babytv.png" group-title="Albania",AL| Baby TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691024
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Përralla Box HD" tvg-logo="" group-title="Albania",AL| Përralla Box HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691023
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Shqip HD" tvg-logo="" group-title="Albania",AL| RTSH Shqip HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691022
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Plus" tvg-logo="" group-title="Albania",AL| RTSH Plus
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691021
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Shqip" tvg-logo="https://laredocordcutters.com/logos/tiv2/tringshqip.png" group-title="Albania",AL| Tring Shqip
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691020
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| T" tvg-logo="" group-title="Albania",AL| T
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691019
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| T HD" tvg-logo="" group-title="Albania",AL| T HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691018
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| T FHD" tvg-logo="" group-title="Albania",AL| T FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691017
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| TDC FHD" tvg-logo="" group-title="Albania",AL| TDC FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691016
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH 1" tvg-logo="" group-title="Albania",AL| RTSH 1
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691015
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH 1 FHD" tvg-logo="" group-title="Albania",AL| RTSH 1 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691014
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH 2 FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/ALBANIA/RTSH2.png" group-title="Albania",AL| RTSH 2 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691013
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH 2 HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/rtshal2.png" group-title="Albania",AL| RTSH 2 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691012
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH 3 HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/rtshal1.png" group-title="Albania",AL| RTSH 3 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691011
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtsh-24-al.svg" group-title="Albania",AL| RTSH 24 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691010
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Film HD" tvg-logo="" group-title="Albania",AL| RTSH Film HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691009
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Gjirokastra" tvg-logo="" group-title="Albania",AL| RTSH Gjirokastra
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Korça" tvg-logo="" group-title="Albania",AL| RTSH Korça
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691007
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Kuvend HD" tvg-logo="" group-title="Albania",AL| RTSH Kuvend HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691006
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Muzike" tvg-logo="" group-title="Albania",AL| RTSH Muzike
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691005
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Muzike HD" tvg-logo="" group-title="Albania",AL| RTSH Muzike HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691004
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Shkollë" tvg-logo="https://asiagrandiptv.us/logo//RTSH.png" group-title="Albania",AL| RTSH Shkollë
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691003
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Sport" tvg-logo="http://logo.protv.cc/picons/logos/RTSH-SPORT.jpeg" group-title="Albania",AL| RTSH Sport
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691002
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTK 1" tvg-logo="https://laredocordcutters.com/logos/tiv2/rtk1.png" group-title="Albania",AL| RTK 1
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691001
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTK 1 FHD" tvg-logo="" group-title="Albania",AL| RTK 1 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691000
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTK 2" tvg-logo="" group-title="Albania",AL| RTK 2
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690999
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTK 3 HD" tvg-logo="" group-title="Albania",AL| RTK 3 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690998
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTK 4" tvg-logo="" group-title="Albania",AL| RTK 4
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690997
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV21" tvg-logo="https://laredocordcutters.com/logos/tiv2/rtv21.png" group-title="Albania",AL| RTV21
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690996
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV21 HD" tvg-logo="" group-title="Albania",AL| RTV21 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690995
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV21 M FHD" tvg-logo="" group-title="Albania",AL| RTV21 M FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690994
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV21 Junior" tvg-logo="https://laredocordcutters.com/logos/tiv2/rtv21.png" group-title="Albania",AL| RTV21 Junior
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690993
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV21 Mix" tvg-logo="http://logodmtv.ddns.net/logo_plus/ALBANIA/RTV21MIX.png" group-title="Albania",AL| RTV21 Mix
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690992
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV21 Maqedonia" tvg-logo="" group-title="Albania",AL| RTV21 Maqedonia
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690991
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV21 Mix FHD" tvg-logo="" group-title="Albania",AL| RTV21 Mix FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690990
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV21 Popullore FHD" tvg-logo="" group-title="Albania",AL| RTV21 Popullore FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690989
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV21 Popullore" tvg-logo="https://laredocordcutters.com/logos/tiv2/rtv21.png" group-title="Albania",AL| RTV21 Popullore
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690988
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV Fontana HD" tvg-logo="" group-title="Albania",AL| RTV Fontana HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690987
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Dukagjini" tvg-logo="" group-title="Albania",AL| Dukagjini
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690986
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Dukagjini FHD" tvg-logo="https://s2.gifyu.com/images/DUKAGJINI.png" group-title="Albania",AL| Dukagjini FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690985
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| TV Uskana FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/ALBANIA/TVUSKANA.png" group-title="Albania",AL| TV Uskana FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690984
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Euro Film HD" tvg-logo="" group-title="Albania",AL| Euro Film HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690983
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Euro Film 1 HD" tvg-logo="" group-title="Albania",AL| Euro Film 1 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690982
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Euro Film 4 HD" tvg-logo="" group-title="Albania",AL| Euro Film 4 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690981
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Film Autor" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbfilmautor.png" group-title="Albania",AL| Film Autor
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690980
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Film Aksion FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbfilmaksion.png" group-title="Albania",AL| Film Aksion FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690979
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Film Nje FHD" tvg-logo="" group-title="Albania",AL| Film Nje FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690978
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Film HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbfilmnjehd.png" group-title="Albania",AL| Film HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690977
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Film Dy FHD" tvg-logo="" group-title="Albania",AL| Film Dy FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690976
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Film Dramë" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbfilmdrame.png" group-title="Albania",AL| Film Dramë
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690975
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Film Thriller" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbfilmthriller.png" group-title="Albania",AL| Film Thriller
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690974
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Film Hits FHD" tvg-logo="http://zubair.dyndns.tv/logo2/Film%20Hits.jpg" group-title="Albania",AL| Film Hits FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690973
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Family FHD" tvg-logo="" group-title="Albania",AL| Family FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Super FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/tringsuper.png" group-title="Albania",AL| Tring Super FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690971
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring 3+ HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/tring3plus.png" group-title="Albania",AL| Tring 3+ HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690970
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Action FHD" tvg-logo="" group-title="Albania",AL| Tring Action FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690969
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Comedy" tvg-logo="https://laredocordcutters.com/logos/tiv2/tringcomedy.png" group-title="Albania",AL| Tring Comedy
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Fantasy" tvg-logo="https://laredocordcutters.com/logos/tiv2/tringfantasy.png" group-title="Albania",AL| Tring Fantasy
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690967
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring History" tvg-logo="https://laredocordcutters.com/logos/tiv2/tringhistory.png" group-title="Albania",AL| Tring History
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690966
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Life" tvg-logo="https://laredocordcutters.com/logos/tiv2/tringlife.png" group-title="Albania",AL| Tring Life
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690965
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Planet" tvg-logo="https://laredocordcutters.com/logos/tiv2/tringplanet.png" group-title="Albania",AL| Tring Planet
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690964
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring World" tvg-logo="https://laredocordcutters.com/logos/tiv2/tringworld.png" group-title="Albania",AL| Tring World
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690963
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Jolly FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/tringjollyhd.png" group-title="Albania",AL| Tring Jolly FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690962
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Alb Action HD" tvg-logo="" group-title="Albania",AL| Alb Action HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Alb Thriller HD" tvg-logo="" group-title="Albania",AL| Alb Thriller HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690960
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Art Kino 1 HD" tvg-logo="" group-title="Albania",AL| Art Kino 1 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Art Kino 2 HD" tvg-logo="" group-title="Albania",AL| Art Kino 2 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690958
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Art Kino 3 HD" tvg-logo="" group-title="Albania",AL| Art Kino 3 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690957
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tele One 3 HD" tvg-logo="http://swedtv.vip/logos/EU-Albania/TV_One.png" group-title="Albania",AL| Tele One 3 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tele One 4 HD" tvg-logo="" group-title="Albania",AL| Tele One 4 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tele One 5 HD" tvg-logo="" group-title="Albania",AL| Tele One 5 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690954
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tele One 6 HD" tvg-logo="" group-title="Albania",AL| Tele One 6 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| X Action FHD" tvg-logo="" group-title="Albania",AL| X Action FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690952
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| X Cifteli HD" tvg-logo="" group-title="Albania",AL| X Cifteli HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690951
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| X Comedy HD" tvg-logo="" group-title="Albania",AL| X Comedy HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690950
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| X Family HD" tvg-logo="" group-title="Albania",AL| X Family HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690949
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| X Histori HD" tvg-logo="" group-title="Albania",AL| X Histori HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690948
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| X Humor HD" tvg-logo="" group-title="Albania",AL| X Humor HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690947
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| X Romance HD" tvg-logo="http://103.161.34.238/dreamtv/tv/netflix.png" group-title="Albania",AL| X Romance HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690946
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| X Western HD" tvg-logo="" group-title="Albania",AL| X Western HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690945
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| X Natyra HD" tvg-logo="" group-title="Albania",AL| X Natyra HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690944
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Q Popullore FHD" tvg-logo="" group-title="Albania",AL| Q Popullore FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690943
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Sky Aksion" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbfilmaksion.png" group-title="Albania",AL| Sky Aksion
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690942
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Sky Dramë" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbfilmdrame.png" group-title="Albania",AL| Sky Dramë
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690941
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Sky Komedi" tvg-logo="http://zubair.dyndns.tv/logo2/Film%20Komedi.png" group-title="Albania",AL| Sky Komedi
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690940
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Sky Max" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/max-hd-al.png" group-title="Albania",AL| Sky Max
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690939
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Sky Novela" tvg-logo="https://asiagrandiptv.us/logo//Albania.png" group-title="Albania",AL| Sky Novela
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690938
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Alb Hits" tvg-logo="http://logodmtv.ddns.net/logo_plus/ALBANIA/FILMHITS.png" group-title="Albania",AL| Alb Hits
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690937
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Fox TV" tvg-logo="" group-title="Albania",AL| Fox TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690936
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Fox TV HD" tvg-logo="" group-title="Albania",AL| Fox TV HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690935
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Fox Life" tvg-logo="" group-title="Albania",AL| Fox Life
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690934
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Fox Crime" tvg-logo="https://laredocordcutters.com/logos/tiv2/foxcrime.png" group-title="Albania",AL| Fox Crime
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690933
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Fox Life HD" tvg-logo="http://zubair.dyndns.tv/logo2/Fox%20Life.png" group-title="Albania",AL| Fox Life HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690932
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Fox Movies" tvg-logo="https://laredocordcutters.com/logos/tiv2/fox.png" group-title="Albania",AL| Fox Movies
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690931
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Art Doku 1 HD" tvg-logo="http://138.199.27.237:8080/ALBANIA/ARTANEWS.png" group-title="Albania",AL| Art Doku 1 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690930
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Art Doku 2 HD" tvg-logo="" group-title="Albania",AL| Art Doku 2 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690929
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV Pendimi HD" tvg-logo="" group-title="Albania",AL| RTV Pendimi HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690881
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Peace TV" tvg-logo="https://laredocordcutters.com/logos/tiv2/peacetvae.png" group-title="Albania",AL| Peace TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690880
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV Islam" tvg-logo="https://laredocordcutters.com/logos/tiv2/rtvi.png" group-title="Albania",AL| RTV Islam
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690879
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Living HD" tvg-logo="" group-title="Albania",AL| Living HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690878
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Living FHD" tvg-logo="" group-title="Albania",AL| Living FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690877
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Mekke Live HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/medinetvtr.png" group-title="Albania",AL| Mekke Live HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690876
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tirana TV" tvg-logo="https://laredocordcutters.com/logos/tiv2/tiranatv.png" group-title="Albania",AL| Tirana TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690875
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Opinioni" tvg-logo="" group-title="Albania",AL| Opinioni
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690874
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Dasma TV" tvg-logo="[" group-title="Albania",AL| Dasma TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690873
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| First Channel" tvg-logo="" group-title="Albania",AL| First Channel
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690872
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| BBF Music" tvg-logo="" group-title="Albania",AL| BBF Music
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690871
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| BBF Music HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/tringbbfmusictv.png" group-title="Albania",AL| BBF Music HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690870
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| TV Opoja HD" tvg-logo="http://mahs.work:80/lutfi-djk/OiWcJ0UaBJ/33693" group-title="Albania",AL| TV Opoja HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690869
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Dielli TV" tvg-logo="" group-title="Albania",AL| Dielli TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690868
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Folk +" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/folk-plus-al.png" group-title="Albania",AL| Folk +
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690867
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Folk + FHD" tvg-logo="" group-title="Albania",AL| Folk + FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690866
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Doc 1 HD" tvg-logo="" group-title="Albania",AL| Doc 1 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690865
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Doc 2 HD" tvg-logo="" group-title="Albania",AL| Doc 2 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690864
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Doc Sport HD" tvg-logo="" group-title="Albania",AL| Doc Sport HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690863
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| EuroSport 2 HD" tvg-logo="[" group-title="Albania",AL| EuroSport 2 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690862
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Eurosport 2" tvg-logo="" group-title="Albania",AL| Eurosport 2
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690861
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Exp Histori HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_explorer_histori.png" group-title="Albania",AL| Exp Histori HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690860
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Exp Natyra HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_natyra.jpg" group-title="Albania",AL| Exp Natyra HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690859
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Exp Shkence" tvg-logo="http://sltv-logo.cms-s.com/logo/ALBANIA/ExplorerShkence.png" group-title="Albania",AL| Exp Shkence
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690858
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Film Aksion" tvg-logo="" group-title="Albania",AL| Film Aksion
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690857
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Film Hits" tvg-logo="http://logodmtv.ddns.net/logo_plus/ALBANIA/FILMHITS.png" group-title="Albania",AL| Film Hits
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690856
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Film Komedi" tvg-logo="" group-title="Albania",AL| Film Komedi
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690855
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Film Nje HD" tvg-logo="" group-title="Albania",AL| Film Nje HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690854
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Info Channel" tvg-logo="" group-title="Albania",AL| Info Channel
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690853
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Jolly" tvg-logo="" group-title="Albania",AL| Jolly
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690852
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Kanal 10 FHD" tvg-logo="" group-title="Albania",AL| Kanal 10 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690851
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Kanal D Drama FHD" tvg-logo="" group-title="Albania",AL| Kanal D Drama FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690850
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Kopliku FHD" tvg-logo="" group-title="Albania",AL| Kopliku FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690849
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| My Music HD" tvg-logo="http://tscheck.tk/logos/_albania/MyMusic.png" group-title="Albania",AL| My Music HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690848
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Ora TV" tvg-logo="" group-title="Albania",AL| Ora TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690847
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Star Plus" tvg-logo="" group-title="Albania",AL| Star Plus
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690846
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Syri TV HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8YQXl74mDzQtfpLJnqhy3VkfI1Yznq8WQ7dJEtOChoFs.png" group-title="Albania",AL| Syri TV HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690845
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| TLC" tvg-logo="http://tugapt.com/picons/tlcnl.png" group-title="Albania",AL| TLC
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690844
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| VOXup" tvg-logo="" group-title="Albania",AL| VOXup
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690843
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Shqip" tvg-logo="" group-title="Albania",AL| RTSH Shqip
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690842
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Exp Histori" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbexplorerhistori.png" group-title="Albania",AL| Exp Histori
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690841
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Exp Natyra" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbexplorernatyra.png" group-title="Albania",AL| Exp Natyra
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690840
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Jolly FHD" tvg-logo="" group-title="Albania",AL| Jolly FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690839
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| TVSH" tvg-logo="" group-title="Albania",AL| TVSH
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690838
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Travel Channel HD" tvg-logo="" group-title="Albania",AL| Travel Channel HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690837
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Channel One FHD" tvg-logo="" group-title="Albania",AL| Channel One FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690836
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Turbo Channel" tvg-logo="" group-title="Albania",AL| Turbo Channel
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690835
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Discovery Channel" tvg-logo="https://laredocordcutters.com/logos/Tiv1/discoverychannel.png" group-title="Albania",AL| Discovery Channel
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690834
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Sky Shkence" tvg-logo="" group-title="Albania",AL| Sky Shkence
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690833
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| ATV HD" tvg-logo="" group-title="Albania",AL| ATV HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690832
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| STV Folk" tvg-logo="https://i.postimg.cc/x15dKzfW/STV-folk.png" group-title="Albania",AL| STV Folk
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690831
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Alb Folk" tvg-logo="https://laredocordcutters.com/logos/Tiv1/folklorittval.png" group-title="Albania",AL| Alb Folk
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690830
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Stinet" tvg-logo="" group-title="Albania",AL| Stinet
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690829
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Elrodi TV" tvg-logo="https://laredocordcutters.com/logos/Tiv1/elroditval.png" group-title="Albania",AL| Elrodi TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690828
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| My Music" tvg-logo="https://laredocordcutters.com/logos/Tiv1/digitalbmymusictv.png" group-title="Albania",AL| My Music
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690827
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Music" tvg-logo="https://laredocordcutters.com/logos/Tiv1/digitalbmusical.png" group-title="Albania",AL| Music
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690826
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Top Estrada TV HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/mtv.png" group-title="Albania",AL| Top Estrada TV HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690825
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Supersonic TV" tvg-logo="https://laredocordcutters.com/logos/tiv2/supersonictval.png" group-title="Albania",AL| Supersonic TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690824
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| T7" tvg-logo="" group-title="Albania",AL| T7
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690823
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| T FHD" tvg-logo="" group-title="Albania",AL| T FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690822
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tema TV" tvg-logo="" group-title="Albania",AL| Tema TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690821
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| TV Shenja" tvg-logo="" group-title="Albania",AL| TV Shenja
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690820
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| TV Mitrovica" tvg-logo="http://okruzenje.net/tvshow/sites/default/files/inline-images/TV%20Mitrovica.png" group-title="Albania",AL| TV Mitrovica
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690819
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Syri TV" tvg-logo="http://logo.protv.cc/picons/logos/alalam.jpg" group-title="Albania",AL| Syri TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690818
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Besa TV" tvg-logo="https://laredocordcutters.com/logos/tiv2/besartvrs.png" group-title="Albania",AL| Besa TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690817
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Muse" tvg-logo="https://laredocordcutters.com/logos/tiv2/museal.png" group-title="Albania",AL| Muse
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690816
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Eurosport 1 HD" tvg-logo="http://195.154.156.100:88/logos/eurosport1.png" group-title="Albania",AL| Eurosport 1 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690815
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTSH Sport FHD" tvg-logo="" group-title="Albania",AL| RTSH Sport FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690814
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Albuk FHD" tvg-logo="" group-title="Albania",AL| Albuk FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690813
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Zico TV FHD" tvg-logo="" group-title="Albania",AL| Zico TV FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690812
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Zjarr TV FHD" tvg-logo="" group-title="Albania",AL| Zjarr TV FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690811
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Discovery Science FHD [MULTI-AUDIO]" tvg-logo="" group-title="Albania",AL| Discovery Science FHD [MULTI-AUDIO]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690810
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| T7 FHD" tvg-logo="" group-title="Albania",AL| T7 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690809
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Travel Channel" tvg-logo="http://195.154.156.100:88/logos/Travel%20Channel.png" group-title="Albania",AL| Travel Channel
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690808
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Kopliku" tvg-logo="" group-title="Albania",AL| Kopliku
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690807
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| National Geographic FHD" tvg-logo="http://195.154.156.100:88/logos/Nat%20Geo%20Channel.png" group-title="Albania",AL| National Geographic FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690806
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Rrokum FHD" tvg-logo="" group-title="Albania",AL| Rrokum FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690805
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Star Plus FHD" tvg-logo="" group-title="Albania",AL| Star Plus FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690804
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Alsat M [EST]" tvg-logo="" group-title="Albania",AL| Alsat M [EST]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690803
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTK 1 [EST]" tvg-logo="https://i.postimg.cc/FsKy1dvc/RTK-1.jpg" group-title="Albania",AL| RTK 1 [EST]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690802
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV21 [EST]" tvg-logo="" group-title="Albania",AL| RTV21 [EST]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690801
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| RTV21 M [EST]" tvg-logo="" group-title="Albania",AL| RTV21 M [EST]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690800
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Top Channel FHD [EST]" tvg-logo="" group-title="Albania",AL| Top Channel FHD [EST]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690799
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| KS Filma24 Romance" tvg-logo="" group-title="Albania",AL| KS Filma24 Romance
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690798
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tetova Thriller HD" tvg-logo="" group-title="Albania",AL| Tetova Thriller HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690797
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| WebStar Aksion HD" tvg-logo="" group-title="Albania",AL| WebStar Aksion HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690796
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| WebStar ChuChu TV" tvg-logo="" group-title="Albania",AL| WebStar ChuChu TV
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690795
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| WebStar Drame HD" tvg-logo="" group-title="Albania",AL| WebStar Drame HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690794
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| WebStar Islam HD" tvg-logo="" group-title="Albania",AL| WebStar Islam HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690793
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| WebStar Masha Orso" tvg-logo="" group-title="Albania",AL| WebStar Masha Orso
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690792
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radia Viciana Popullore |" tvg-logo="" group-title="Albania",AL| Radia Viciana Popullore |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690791
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Peja | Kosove" tvg-logo="" group-title="Albania",AL| Radio Peja | Kosove
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690790
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio STAR Gjilan |" tvg-logo="" group-title="Albania",AL| Radio STAR Gjilan |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690789
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Capital FM |" tvg-logo="" group-title="Albania",AL| Capital FM |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690788
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Sharri Dragash |" tvg-logo="" group-title="Albania",AL| Radio Sharri Dragash |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690787
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Vala Rinore |" tvg-logo="" group-title="Albania",AL| Radio Vala Rinore |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690786
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Bleta Tetove |" tvg-logo="" group-title="Albania",AL| Radio Bleta Tetove |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690785
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Kontakt |" tvg-logo="" group-title="Albania",AL| Radio Kontakt |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690784
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Emigranti |" tvg-logo="" group-title="Albania",AL| Radio Emigranti |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690783
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Llapi Podujeve |" tvg-logo="" group-title="Albania",AL| Radio Llapi Podujeve |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690782
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Gjakova |" tvg-logo="" group-title="Albania",AL| Radio Gjakova |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690781
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Kosova E Lire Prishtine |" tvg-logo="" group-title="Albania",AL| Radio Kosova E Lire Prishtine |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690780
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Viciana Folklor |" tvg-logo="" group-title="Albania",AL| Radio Viciana Folklor |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690779
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Prishtina Kosove |" tvg-logo="" group-title="Albania",AL| Radio Prishtina Kosove |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690778
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Shqip Tirane |" tvg-logo="" group-title="Albania",AL| Radio Shqip Tirane |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690777
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Club FM |" tvg-logo="" group-title="Albania",AL| Club FM |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690776
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Dukagjini |" tvg-logo="" group-title="Albania",AL| Radio Dukagjini |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690775
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Arberia |" tvg-logo="" group-title="Albania",AL| Radio Arberia |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690774
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Udhezimi |" tvg-logo="" group-title="Albania",AL| Radio Udhezimi |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690773
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Shkelzeni |" tvg-logo="" group-title="Albania",AL| Radio Shkelzeni |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690772
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Shqiponja  |" tvg-logo="" group-title="Albania",AL| Radio Shqiponja  |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690771
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Koha |" tvg-logo="" group-title="Albania",AL| Radio Koha |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690770
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Liria |" tvg-logo="" group-title="Albania",AL| Radio Liria |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690769
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Kosova 2 | KS" tvg-logo="" group-title="Albania",AL| Radio Kosova 2 | KS
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690768
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Radio Maria Tirane |" tvg-logo="" group-title="Albania",AL| Radio Maria Tirane |
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690767
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| WebStar Thriller HD" tvg-logo="" group-title="Albania",AL| WebStar Thriller HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690766
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| K Sport 1 HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/Sport/KUJTESASPORT1.png" group-title="Sport",AL| K Sport 1 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690928
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| K Sport 2 HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/Sport/KUJTESASPORT1.png" group-title="Sport",AL| K Sport 2 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690927
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| K Sport 3 HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/Sport/KUJTESASPORT1.png" group-title="Sport",AL| K Sport 3 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690926
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| K Sport 4 HD" tvg-logo="https://i.postimg.cc/hv04w0ZZ/Kujtesa-Sport.jpg" group-title="Sport",AL| K Sport 4 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690925
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport News HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbsupersport1.png" group-title="Sport",AL| Super Sport News HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690924
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport News FHD [Multi-Audio]" tvg-logo="" group-title="Sport",AL| Super Sport News FHD [Multi-Audio]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690923
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport2_hd.png" group-title="Sport",AL| Super Sport 2
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690922
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 2 HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbsupersport2.png" group-title="Sport",AL| Super Sport 2 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690921
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 2 FHD [Multi-Audio]" tvg-logo="" group-title="Sport",AL| Super Sport 2 FHD [Multi-Audio]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690920
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 3" tvg-logo="" group-title="Sport",AL| Super Sport 3
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690919
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 3 HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbsupersport3.png" group-title="Sport",AL| Super Sport 3 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690918
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 3 FHD [Multi-Audio]" tvg-logo="" group-title="Sport",AL| Super Sport 3 FHD [Multi-Audio]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690917
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 4" tvg-logo="" group-title="Sport",AL| Super Sport 4
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690916
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 4 HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbsupersport4.png" group-title="Sport",AL| Super Sport 4 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690915
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 4 FHD [Multi-Audio]" tvg-logo="" group-title="Sport",AL| Super Sport 4 FHD [Multi-Audio]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690914
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 5" tvg-logo="https://i.postimg.cc/FsZQQzrq/SS5-Sport.png" group-title="Sport",AL| Super Sport 5
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690913
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 5 HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbsupersport5.png" group-title="Sport",AL| Super Sport 5 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690912
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 5 FHD [Multi-Audio]" tvg-logo="" group-title="Sport",AL| Super Sport 5 FHD [Multi-Audio]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690911
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 6" tvg-logo="" group-title="Sport",AL| Super Sport 6
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690910
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 6 HD" tvg-logo="" group-title="Sport",AL| Super Sport 6 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690909
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 6 FHD [Multi-Audio]" tvg-logo="http://103.161.34.238/dreamtv/tv/SuperSport.jpg" group-title="Sport",AL| Super Sport 6 FHD [Multi-Audio]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690908
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport7_hd.png" group-title="Sport",AL| Super Sport 7
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690907
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport 7 FHD [Multi-Audio]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_supersport7_hd.png" group-title="Sport",AL| Super Sport 7 FHD [Multi-Audio]
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690906
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport News" tvg-logo="https://asiagrandiptv.us/logo/supersportnews.png" group-title="Sport",AL| Super Sport News
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690905
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Sport 1" tvg-logo="https://i.postimg.cc/pdk9hRJ1/Tring-al-sport-1.png" group-title="Sport",AL| Tring Sport 1
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690904
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Sport 1 HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/tringalsport1.png" group-title="Sport",AL| Tring Sport 1 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690903
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Sport 1 FHD" tvg-logo="" group-title="Sport",AL| Tring Sport 1 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690902
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Sport 2" tvg-logo="https://i.postimg.cc/P5jz1f1t/Tring-al-sport-2.png" group-title="Sport",AL| Tring Sport 2
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690901
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Sport 2 HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/tringalsport2.png" group-title="Sport",AL| Tring Sport 2 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690900
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Sport 2 FHD" tvg-logo="" group-title="Sport",AL| Tring Sport 2 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690899
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Sport 3" tvg-logo="" group-title="Sport",AL| Tring Sport 3
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690898
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Sport 3 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/tring3plus.png" group-title="Sport",AL| Tring Sport 3 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690897
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Sport 4" tvg-logo="" group-title="Sport",AL| Tring Sport 4
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690896
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Tring Sport 4 HD" tvg-logo="" group-title="Sport",AL| Tring Sport 4 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690895
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Kujtesa Sport 1 HD" tvg-logo="" group-title="Sport",AL| Kujtesa Sport 1 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690894
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Kujtesa Sport 2 HD" tvg-logo="" group-title="Sport",AL| Kujtesa Sport 2 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690893
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Kujtesa Sport 3 HD" tvg-logo="http://123iptv.nl:88/live/nlines-skype/xzdfdggtery352645/11163.ts" group-title="Sport",AL| Kujtesa Sport 3 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690892
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Kujtesa Sport 4 HD" tvg-logo="https://i.postimg.cc/hv04w0ZZ/Kujtesa-Sport.jpg" group-title="Sport",AL| Kujtesa Sport 4 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690891
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Art Sport 1 FHD" tvg-logo="" group-title="Sport",AL| Art Sport 1 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690890
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Art Sport 3 FHD" tvg-logo="" group-title="Sport",AL| Art Sport 3 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690889
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Art Sport 4 FHD" tvg-logo="" group-title="Sport",AL| Art Sport 4 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690888
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Art Sport 5 FHD" tvg-logo="https://i.postimg.cc/9QGNGpzW/ART_Sport_5.png" group-title="Sport",AL| Art Sport 5 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690887
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport Kosova 1 HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbsupersport1.png" group-title="Sport",AL| Super Sport Kosova 1 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690886
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport Kosova 1 FHD" tvg-logo="" group-title="Sport",AL| Super Sport Kosova 1 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690885
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport Kosova 2 HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbsupersport2.png" group-title="Sport",AL| Super Sport Kosova 2 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690884
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Super Sport Kosova 2 FHD" tvg-logo="" group-title="Sport",AL| Super Sport Kosova 2 FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690883
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| OverSport 4 HD" tvg-logo="" group-title="Sport",AL| OverSport 4 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690882

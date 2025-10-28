@@ -30,8 +30,6 @@ http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691058
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691068
 #EXTINF:-1,AL| Alsat M
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691067
-#EXTINF:-1,AL| Alsat M FHD
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691066
 #EXTINF:-1,AL| KTV
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/691055
 #EXTINF:-1,AL| KTV FHD
@@ -427,10 +425,6 @@ http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690818
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690817
 #EXTINF:-1,AL| Muse
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690816
-#EXTINF:-1,AL| Eurosport 1 HD
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690815
-#EXTINF:-1,AL| RTSH Sport FHD
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690814
 #EXTINF:-1,AL| Albuk FHD
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690813
 #EXTINF:-1,AL| Zico TV FHD
@@ -475,56 +469,6 @@ http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690794
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690793
 #EXTINF:-1,AL| WebStar Masha Orso
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690792
-#EXTINF:-1,AL| Radia Viciana Popullore |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690791
-#EXTINF:-1,AL| Radio Peja | Kosove
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690790
-#EXTINF:-1,AL| Radio STAR Gjilan |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690789
-#EXTINF:-1,AL| Capital FM |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690788
-#EXTINF:-1,AL| Radio Sharri Dragash |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690787
-#EXTINF:-1,AL| Radio Vala Rinore |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690786
-#EXTINF:-1,AL| Radio Bleta Tetove |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690785
-#EXTINF:-1,AL| Radio Kontakt |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690784
-#EXTINF:-1,AL| Radio Emigranti |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690783
-#EXTINF:-1,AL| Radio Llapi Podujeve |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690782
-#EXTINF:-1,AL| Radio Gjakova |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690781
-#EXTINF:-1,AL| Radio Kosova E Lire Prishtine |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690780
-#EXTINF:-1,AL| Radio Viciana Folklor |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690779
-#EXTINF:-1,AL| Radio Prishtina Kosove |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690778
-#EXTINF:-1,AL| Radio Shqip Tirane |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690777
-#EXTINF:-1,AL| Club FM |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690776
-#EXTINF:-1,AL| Radio Dukagjini |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690775
-#EXTINF:-1,AL| Radio Arberia |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690774
-#EXTINF:-1,AL| Radio Udhezimi |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690773
-#EXTINF:-1,AL| Radio Shkelzeni |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690772
-#EXTINF:-1,AL| Radio Shqiponja  |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690771
-#EXTINF:-1,AL| Radio Koha |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690770
-#EXTINF:-1,AL| Radio Liria |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690769
-#EXTINF:-1,AL| Radio Kosova 2 | KS
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690768
-#EXTINF:-1,AL| Radio Maria Tirane |
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690767
 #EXTINF:-1,AL| WebStar Thriller HD
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690766
 #EXTINF:-1 group-title="SPORT",--------------------------------------
@@ -624,6 +568,10 @@ http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690884
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690883
 #EXTINF:-1,AL| OverSport 4 HD
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690882
+#EXTINF:-1,AL| Eurosport 1 HD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690815
+#EXTINF:-1,AL| RTSH Sport FHD
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/690814
 
 
 #EXTINF:-1 group-title="IT KOMBETARE",--------------------------------------

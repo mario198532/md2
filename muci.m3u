@@ -491,7 +491,7 @@ http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/793826
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/793825
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Zjarr TV FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Zjarr%20TV%20FHD%20AL%20(Copy).png" group-title="Albania",Zjarr TV FHD AL
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/793824
-
+#EXTINF:-1 group-title="SPORT",--------------------------------------
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport2.al" tvg-name="Super Sport 2 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-2-al.png" group-title="Albania",Super Sport 2 AL
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/793823
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport2.al" tvg-name="Super Sport 2 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-2-al.png" group-title="Albania",Super Sport 2 FHD AL [Multi-Audio]
@@ -812,3 +812,4 @@ http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661235
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661234
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|Sport| PRIME VIDEO-INFINSportY 12" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-tSportle="Sport | SPORT",|Sport| PRIME VIDEO-INFINSportY 12
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661233
+

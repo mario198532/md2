@@ -840,42 +840,6 @@ http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660877
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660876
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nove.it" tvg-name="|IT| NOVE ˢᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/NOVE.png" group-title="IT KOMBETARE | GENERALE",|IT| NOVE ˢᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660875
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="giallo.it" tvg-name="|IT| GIALLO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/GIALLO.png" group-title="IT KOMBETARE | GENERALE",|IT| GIALLO ᵁᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660874
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="giallo.it" tvg-name="|IT| GIALLO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/GIALLO.png" group-title="IT KOMBETARE | GENERALE",|IT| GIALLO ᵁᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660873
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="giallo.it" tvg-name="|IT| GIALLO ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/GIALLO.png" group-title="IT KOMBETARE | GENERALE",|IT| GIALLO ᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660872
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="realtime.it" tvg-name="|IT| REAL TIME ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/REALTIMEHD.png" group-title="IT KOMBETARE | GENERALE",|IT| REAL TIME ᵁᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660871
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="realtime.it" tvg-name="|IT| REAL TIME ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/REALTIMEHD.png" group-title="IT KOMBETARE | GENERALE",|IT| REAL TIME ᵁᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660870
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="realtime.it" tvg-name="|IT| REAL TIME ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/REALTIMEHD.png" group-title="IT KOMBETARE | GENERALE",|IT| REAL TIME ᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660869
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv2000.it" tvg-name="|IT| TV2000 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/TV2000.png" group-title="IT KOMBETARE | GENERALE",|IT| TV2000 ᵁᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660868
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv2000.it" tvg-name="|IT| TV 2000" tvg-logo="http://138.199.27.237:8080/ITALY/TV2000.png" group-title="IT KOMBETARE | GENERALE",|IT| TV 2000
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660867
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="uniresat.it" tvg-name="|IT| UNIRE SAT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/UNIRESAT.png" group-title="IT KOMBETARE | GENERALE",|IT| UNIRE SAT ᵁᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660866
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="uniresat.it" tvg-name="|IT| UNIRESAT" tvg-logo="http://138.199.27.237:8080/ITALY/UNIRESAT.png" group-title="IT KOMBETARE | GENERALE",|IT| UNIRESAT
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660865
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="uniresat.it" tvg-name="|IT| UNIRESAT" tvg-logo="http://138.199.27.237:8080/ITALY/UNIRESAT.png" group-title="IT KOMBETARE | GENERALE",|IT| UNIRESAT
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660864
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="motortrend.it" tvg-name="|IT| MOTOR TREND ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/MOTORTREND.png" group-title="IT KOMBETARE | GENERALE",|IT| MOTOR TREND ᵁᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660863
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="motortrend.it" tvg-name="|IT| MOTOR TREND  ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/MOTORTREND.png" group-title="IT KOMBETARE | GENERALE",|IT| MOTOR TREND  ᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660862
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foodnetwork.it" tvg-name="|IT| FOOD NETWORK ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/FOODNETWORK.png" group-title="IT KOMBETARE | GENERALE",|IT| FOOD NETWORK ᵁᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660861
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foodnetwork.it" tvg-name="|IT| FOOD NETWORK ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/FOODNETWORK.png" group-title="IT KOMBETARE | GENERALE",|IT| FOOD NETWORK ᵁᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660860
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foodnetwork.it" tvg-name="|IT| Food Network" tvg-logo="http://138.199.27.237:8080/ITALY/FOODNETWORK.png" group-title="IT KOMBETARE | GENERALE",|IT| Food Network
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660859
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="history.it.plus1" tvg-name="|IT| HISTORY +1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/HISTORYFHD.png" group-title="IT KOMBETARE | GENERALE",|IT| HISTORY +1 ᵁᴴᴰ
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660858
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cacciaepesca.it" tvg-name="|IT| CACCIAEPESCA" tvg-logo="http://138.199.27.237:8080/ITALY/PESCAECACCIA.png" group-title="IT KOMBETARE | GENERALE",|IT| CACCIAEPESCA
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660857
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="la7.ch" tvg-name="|IT| LA 7 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/LA7.png" group-title="IT KOMBETARE | GENERALE",|IT| LA 7 ᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660856
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.it" tvg-name="|IT| TV8 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/TV8.png" group-title="IT KOMBETARE | GENERALE",|IT| TV8 ᵁᴴᴰ
@@ -888,8 +852,6 @@ http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660853
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660852
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|IT| ALICE" tvg-logo="http://138.199.27.237:8080/ITALY/ALICE.png" group-title="IT KOMBETARE | GENERALE",|IT| ALICE
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660851
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|IT| PADRE PIO TV" tvg-logo="http://138.199.27.237:8080/ITALY/PADREPIOTV.png" group-title="IT KOMBETARE | GENERALE",|IT| PADRE PIO TV
-http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660850
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiscuola.it" tvg-name="|IT| RAI  SCUOLA ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAISCUOLA.png" group-title="IT KOMBETARE | GENERALE",|IT| RAI  SCUOLA ᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660849
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="super.it" tvg-name="|IT| SUPER" tvg-logo="http://138.199.27.237:8080/ITALY/SUPER.png" group-title="IT KOMBETARE | GENERALE",|IT| SUPER
@@ -1052,6 +1014,42 @@ http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661584
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661583
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="focus.it" tvg-name="|IT| FOCUS ˢᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/FOCUS.png" group-title="IT | DOCUMENTARIO",|IT| FOCUS ˢᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661582
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="giallo.it" tvg-name="|IT| GIALLO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/GIALLO.png" group-title="IT DOKUMENTARE",|IT| GIALLO ᵁᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660874
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="giallo.it" tvg-name="|IT| GIALLO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/GIALLO.png" group-title="IT DOKUMENTARE",|IT| GIALLO ᵁᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660873
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="giallo.it" tvg-name="|IT| GIALLO ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/GIALLO.png" group-title="IT DOKUMENTARE",|IT| GIALLO ᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660872
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="realtime.it" tvg-name="|IT| REAL TIME ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/REALTIMEHD.png" group-title="IT DOKUMENTARE",|IT| REAL TIME ᵁᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660871
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="realtime.it" tvg-name="|IT| REAL TIME ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/REALTIMEHD.png" group-title="IT DOKUMENTARE",|IT| REAL TIME ᵁᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660870
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="realtime.it" tvg-name="|IT| REAL TIME ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/REALTIMEHD.png" group-title="IT DOKUMENTARE",|IT| REAL TIME ᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660869
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv2000.it" tvg-name="|IT| TV2000 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/TV2000.png" group-title="IT DOKUMENTARE",|IT| TV2000 ᵁᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660868
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv2000.it" tvg-name="|IT| TV 2000" tvg-logo="http://138.199.27.237:8080/ITALY/TV2000.png" group-title="IT DOKUMENTARE",|IT| TV 2000
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660867
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="uniresat.it" tvg-name="|IT| UNIRE SAT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/UNIRESAT.png" group-title="IT DOKUMENTARE",|IT| UNIRE SAT ᵁᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660866
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="uniresat.it" tvg-name="|IT| UNIRESAT" tvg-logo="http://138.199.27.237:8080/ITALY/UNIRESAT.png" group-title="IT DOKUMENTARE",|IT| UNIRESAT
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660865
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="uniresat.it" tvg-name="|IT| UNIRESAT" tvg-logo="http://138.199.27.237:8080/ITALY/UNIRESAT.png" group-title="IT DOKUMENTARE",|IT| UNIRESAT
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660864
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="motortrend.it" tvg-name="|IT| MOTOR TREND ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/MOTORTREND.png" group-title="IT DOKUMENTARE",|IT| MOTOR TREND ᵁᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660863
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="motortrend.it" tvg-name="|IT| MOTOR TREND  ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/MOTORTREND.png" group-title="IT DOKUMENTARE",|IT| MOTOR TREND  ᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660862
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foodnetwork.it" tvg-name="|IT| FOOD NETWORK ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/FOODNETWORK.png" group-title="IT DOKUMENTARE",|IT| FOOD NETWORK ᵁᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660861
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foodnetwork.it" tvg-name="|IT| FOOD NETWORK ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/FOODNETWORK.png" group-title="IT DOKUMENTARE",|IT| FOOD NETWORK ᵁᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660860
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foodnetwork.it" tvg-name="|IT| Food Network" tvg-logo="http://138.199.27.237:8080/ITALY/FOODNETWORK.png" group-title="IT DOKUMENTARE",|IT| Food Network
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660859
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="history.it.plus1" tvg-name="|IT| HISTORY +1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/HISTORYFHD.png" group-title="IT DOKUMENTARE",|IT| HISTORY +1 ᵁᴴᴰ
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660858
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cacciaepesca.it" tvg-name="|IT| CACCIAEPESCA" tvg-logo="http://138.199.27.237:8080/ITALY/PESCAECACCIA.png" group-title="IT DOKUMENTARE",|IT| CACCIAEPESCA
+http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660857
 
 #EXTINF:-1 group-title="SKY CINEMA",--------------------------------------
 
@@ -2092,53 +2090,52 @@ http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/660991
 
 #EXTINF:-1 group-title="IT FEMIJE",--------------------------------------
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661582
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiyoyo.it" tvg-name="|IT| RAI YOYO ᵁᴴᴰ [Multi-Sub]" tvg-logo="http://138.199.27.237:8080/ITALY/RAIYOYO.png" group-title="IT FEMIJE | BAMBINI",|IT| RAI YOYO ᵁᴴᴰ [Multi-Sub]
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiyoyo.it" tvg-name="|IT| RAI YOYO ᵁᴴᴰ [Multi-Sub]" tvg-logo="http://138.199.27.237:8080/ITALY/RAIYOYO.png" group-title="IT FEMIJE",|IT| RAI YOYO ᵁᴴᴰ [Multi-Sub]
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661578
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiyoyo.it" tvg-name="|IT| RAI YOYO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIYOYO.png" group-title="IT FEMIJE | BAMBINI",|IT| RAI YOYO ᵁᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiyoyo.it" tvg-name="|IT| RAI YOYO ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIYOYO.png" group-title="IT FEMIJE",|IT| RAI YOYO ᵁᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661577
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiyoyo.it" tvg-name="|IT| RAI YOYO ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIYOYO.png" group-title="IT FEMIJE | BAMBINI",|IT| RAI YOYO ᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raiyoyo.it" tvg-name="|IT| RAI YOYO ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIYOYO.png" group-title="IT FEMIJE",|IT| RAI YOYO ᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661576
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raigulp.it" tvg-name="|IT| RAI GULP ᵁᴴᴰ [Multi-Sub]" tvg-logo="http://138.199.27.237:8080/ITALY/RAIGULP.png" group-title="IT FEMIJE | BAMBINI",|IT| RAI GULP ᵁᴴᴰ [Multi-Sub]
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raigulp.it" tvg-name="|IT| RAI GULP ᵁᴴᴰ [Multi-Sub]" tvg-logo="http://138.199.27.237:8080/ITALY/RAIGULP.png" group-title="IT FEMIJE",|IT| RAI GULP ᵁᴴᴰ [Multi-Sub]
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661575
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raigulp.it" tvg-name="|IT| RAI GULP ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIGULP.png" group-title="IT FEMIJE | BAMBINI",|IT| RAI GULP ᵁᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raigulp.it" tvg-name="|IT| RAI GULP ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIGULP.png" group-title="IT FEMIJE",|IT| RAI GULP ᵁᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661574
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raigulp.it" tvg-name="|IT| RAI GULP ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIGULP.png" group-title="IT FEMIJE | BAMBINI",|IT| RAI GULP ᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raigulp.it" tvg-name="|IT| RAI GULP ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAIGULP.png" group-title="IT FEMIJE",|IT| RAI GULP ᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661573
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boing.it" tvg-name="|IT| BOING ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/BOING.png" group-title="IT FEMIJE | BAMBINI",|IT| BOING ᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boing.it" tvg-name="|IT| BOING ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/BOING.png" group-title="IT FEMIJE",|IT| BOING ᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661572
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.it" tvg-name="|IT| CARTOON NETWORK ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CARTOONNETWORK.png" group-title="IT FEMIJE | BAMBINI",|IT| CARTOON NETWORK ᵁᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.it" tvg-name="|IT| CARTOON NETWORK ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CARTOONNETWORK.png" group-title="IT FEMIJE",|IT| CARTOON NETWORK ᵁᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661571
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.it" tvg-name="|IT| CARTOON NETWORK  ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png" group-title="IT FEMIJE | BAMBINI",|IT| CARTOON NETWORK  ᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.it" tvg-name="|IT| CARTOON NETWORK  ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png" group-title="IT FEMIJE",|IT| CARTOON NETWORK  ᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661570
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonito.it" tvg-name="|IT| cartoonito ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CARTOONITO.png" group-title="IT FEMIJE | BAMBINI",|IT| cartoonito ᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonito.it" tvg-name="|IT| cartoonito ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CARTOONITO.png" group-title="IT FEMIJE",|IT| cartoonito ᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661569
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonito.it" tvg-name="|IT| CARTOON ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CARTOONITO.png" group-title="IT FEMIJE | BAMBINI",|IT| CARTOON ᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonito.it" tvg-name="|IT| CARTOON ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/CARTOONITO.png" group-title="IT FEMIJE",|IT| CARTOON ᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661568
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boomerang.it" tvg-name="|IT| BOOMERANG ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png" group-title="IT FEMIJE | BAMBINI",|IT| BOOMERANG ᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boomerang.it" tvg-name="|IT| BOOMERANG ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png" group-title="IT FEMIJE",|IT| BOOMERANG ᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661567
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boomerang.it" tvg-name="|IT| BOOMERANG" tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png" group-title="IT FEMIJE | BAMBINI",|IT| BOOMERANG
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="boomerang.it" tvg-name="|IT| BOOMERANG" tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png" group-title="IT FEMIJE",|IT| BOOMERANG
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661566
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickelodeon.it" tvg-name="|IT| NICKELODEON ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png" group-title="IT FEMIJE | BAMBINI",|IT| NICKELODEON ᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickelodeon.it" tvg-name="|IT| NICKELODEON ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png" group-title="IT FEMIJE",|IT| NICKELODEON ᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661565
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickelodeon.it" tvg-name="|IT| NICKELODEON  ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png" group-title="IT FEMIJE | BAMBINI",|IT| NICKELODEON  ˢᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickelodeon.it" tvg-name="|IT| NICKELODEON  ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png" group-title="IT FEMIJE",|IT| NICKELODEON  ˢᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661564
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.it" tvg-name="|IT| NICK JR ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" group-title="IT FEMIJE | BAMBINI",|IT| NICK JR ᵁᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.it" tvg-name="|IT| NICK JR ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" group-title="IT FEMIJE",|IT| NICK JR ᵁᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661563
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.it" tvg-name="|IT| NICK JR ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" group-title="IT FEMIJE | BAMBINI",|IT| NICK JR ᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.it" tvg-name="|IT| NICK JR ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" group-title="IT FEMIJE",|IT| NICK JR ᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661562
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.it" tvg-name="|IT| NICKJR ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" group-title="IT FEMIJE | BAMBINI",|IT| NICKJR ˢᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.it" tvg-name="|IT| NICKJR ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" group-title="IT FEMIJE",|IT| NICKJR ˢᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661561
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="deakids.it" tvg-name="|IT| DEA KIDS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DEAKIDS.png" group-title="IT FEMIJE | BAMBINI",|IT| DEA KIDS ᵁᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="deakids.it" tvg-name="|IT| DEA KIDS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DEAKIDS.png" group-title="IT FEMIJE",|IT| DEA KIDS ᵁᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661560
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="deakids.it" tvg-name="|IT| DEA KIDS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DEAKIDS.png" group-title="IT FEMIJE | BAMBINI",|IT| DEA KIDS ᵁᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="deakids.it" tvg-name="|IT| DEA KIDS ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DEAKIDS.png" group-title="IT FEMIJE",|IT| DEA KIDS ᵁᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661559
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="deakids.it" tvg-name="|IT| DEA KIDS ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DEAKIDS.png" group-title="IT FEMIJE | BAMBINI",|IT| DEA KIDS ᴴᴰ
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="deakids.it" tvg-name="|IT| DEA KIDS ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DEAKIDS.png" group-title="IT FEMIJE",|IT| DEA KIDS ᴴᴰ
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661558
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="frisbee.it" tvg-name="|IT| FRISBEE" tvg-logo="http://138.199.27.237:8080/ITALY/FRISBEE.png" group-title="IT FEMIJE | BAMBINI",|IT| FRISBEE
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="frisbee.it" tvg-name="|IT| FRISBEE" tvg-logo="http://138.199.27.237:8080/ITALY/FRISBEE.png" group-title="IT FEMIJE",|IT| FRISBEE
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661557
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="k2.it" tvg-name="|IT| K2" tvg-logo="http://138.199.27.237:8080/ITALY/K2.png" group-title="IT FEMIJE | BAMBINI",|IT| K2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="k2.it" tvg-name="|IT| K2" tvg-logo="http://138.199.27.237:8080/ITALY/K2.png" group-title="IT FEMIJE",|IT| K2
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661556
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="frisbee.it" tvg-name="|IT| SKY FRISBEE MINI" tvg-logo="http://138.199.27.237:8080/ITALY/FRISBEE.png" group-title="IT FEMIJE | BAMBINI",|IT| SKY FRISBEE MINI
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="frisbee.it" tvg-name="|IT| SKY FRISBEE MINI" tvg-logo="http://138.199.27.237:8080/ITALY/FRISBEE.png" group-title="IT FEMIJE",|IT| SKY FRISBEE MINI
 http://proxpanel.pro:80/zhp3NNHP/fNGkEnN/661555
-
 

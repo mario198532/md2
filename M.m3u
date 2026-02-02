@@ -1,5 +1,612 @@
 #EXTM3U
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="topchannel.al" tvg-name="Top Channel FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/top-channel-al.png" group-title="Albania",Top Channel FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794070
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="topchannel.al" tvg-name="Top Channel HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/top-channel-al.png" group-title="Albania",Top Channel HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794068
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="klantv.al" tvg-name="Klan TV AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/tv-klan-al.png" group-title="Albania",Klan TV AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="klantv.al" tvg-name="Klan TV FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/tv-klan-al.png" group-title="Albania",Klan TV FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794066
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vizionplus.al" tvg-name="Vizion Plus FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/vizion-plus-al.png" group-title="Albania",Vizion Plus FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794065
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vizionplus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Vizion%20Plus%20FHD%20AL%20(Copy).png" group-title="Albania",Vizion Plus HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794064
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtsh1.al" tvg-name="RTSH 1 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh1-al.png" group-title="Albania",RTSH 1 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794063
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtsh1.al" tvg-name="RTSH 1 FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh1-al.png" group-title="Albania",RTSH 1 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="klanplus.al" tvg-name="Klan Plus AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/klanplus-al.png" group-title="Albania",Klan Plus AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794061
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="klanplus.al" tvg-name="Klan Plus FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/klanplus-al.png" group-title="Albania",Klan Plus FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794060
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Report TV AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/report-tv-hd-al.png" group-title="Albania",Report TV AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794059
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Report TV HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/report-tv-hd-al.png" group-title="Albania",Report TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="News 24 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/news24-al.png" group-title="Albania",News 24 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="News 24 FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/news24-al.png" group-title="Albania",News 24 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ora News FHD AL" tvg-logo="http://138.199.27.237:8080/ALBANIA/ORANEWS.png" group-title="Albania",Ora News FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794055
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abcnews.au" tvg-name="ABC News HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/ABC%20News%20AL%20(Copy).png" group-title="Albania",ABC News HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794054
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="euronews.al" tvg-name="Euronews Albania HD AL" tvg-logo="https://logo.m3uassets.com/euronewsalbania.png" group-title="Albania",Euronews Albania HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794053
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="topnews.al" tvg-name="Top News AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Top%20News%20AL%20(Copy).png" group-title="Albania",Top News AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794052
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="topnews.al" tvg-name="Top News HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Top%20News%20HD%20AL%20(Copy).png" group-title="Albania",Top News HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794051
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtsh24.al" tvg-name="RTSH 24 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-24-al.png" group-title="Albania",RTSH 24 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794050
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtsh2.al" tvg-name="RTSH 2 FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh2-al.png" group-title="Albania",RTSH 2 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794049
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtsh2.al" tvg-name="RTSH 2 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh2-al.png" group-title="Albania",RTSH 2 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794048
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtsh3.al" tvg-name="RTSH 3 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh3-al.png" group-title="Albania",RTSH 3 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794047
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtshfilm.al" tvg-name="RTSH Film HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-film-al.png" group-title="Albania",RTSH Film HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794046
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Big Brother 1 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Big%20Brother%20Kosova%202%20FHD%20AL%20(Copy).png" group-title="Albania",Big Brother 1 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794045
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Big Brother 2 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Big%20Brother%20Kosova%202%20FHD%20AL%20(Copy).png" group-title="Albania",Big Brother 2 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794044
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Big Brother Kosova 1 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Big%20Brother%20Kosova%202%20FHD%20AL%20(Copy).png" group-title="Albania",Big Brother Kosova 1 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794043
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Big Brother Kosova 2 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Big%20Brother%20Kosova%202%20FHD%20AL%20(Copy).png" group-title="Albania",Big Brother Kosova 2 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794042
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Top Estrada TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Top%20Estrada%20TV%20HD%20AL%20(Copy).png" group-title="Albania",Top Estrada TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794041
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kafeneja Jone FHD AL" tvg-logo="" group-title="Albania",Kafeneja Jone FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794040
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Stupcat 24/7 FHD AL" tvg-logo="" group-title="Albania",Stupcat 24/7 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794039
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="X Humor HD AL" tvg-logo="https://logo.m3uassets.com/xhumor.png" group-title="Albania",X Humor HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794038
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Humor FHD AL" tvg-logo="" group-title="Albania",Humor FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794037
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Comedy FHD AL" tvg-logo="" group-title="Albania",Comedy FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794036
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringcomedy.al" tvg-name="Tring Comedy AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Comedy%20AL%20(Copy).png" group-title="Albania",Tring Comedy AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794035
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="filmhits.al" tvg-name="Film Hits AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Film%20Hits%20AL%20(Copy).png" group-title="Albania",Film Hits AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794034
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="filmhits.al" tvg-name="Film Hits FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Film%20Hits%20AL%20(Copy).png" group-title="Albania",Film Hits FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794033
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="filmnje.al" tvg-name="Film Nje FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Film%20Nje%20FHD%20AL%20(Copy).png" group-title="Albania",Film Nje FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794032
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="filmnje.al" tvg-name="Film Nje HD" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Film%20Nje%20HD.png" group-title="Albania",Film Nje HD
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794031
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="filmdy.al" tvg-name="Film Dy FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Film%20Dy%20FHD%20AL%20(Copy).png" group-title="Albania",Film Dy FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794030
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="filmaksion.al" tvg-name="Film Aksion AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/film-aksion-al%20(Copy).png" group-title="Albania",Film Aksion AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794029
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="filmaksion.al" tvg-name="Film Aksion FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/film-aksion-al%20(Copy).png" group-title="Albania",Film Aksion FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794028
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="filmkomedi.al" tvg-name="Film Komedi HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/comedy%20(Copy).png" group-title="Albania",Film Komedi HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="filmthriller.al" tvg-name="Film Thriller HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Film%20Thriller%20AL%20(Copy).png" group-title="Albania",Film Thriller HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794026
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Euro Film 4 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Euro%20Film%20HD%20AL%20(Copy).png" group-title="Albania",Euro Film 4 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794025
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurofilm.al" tvg-name="Euro Film HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Euro%20Film%20HD%20AL%20(Copy).png" group-title="Albania",Euro Film HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794024
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Aksion HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Sky%20Aksion%20AL%20(Copy).png" group-title="Albania",Sky Aksion HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794023
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Komedi HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Sky%20Komedi%20AL%20(Copy).png" group-title="Albania",Sky Komedi HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794022
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Max HD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/max-hd-al.png" group-title="Albania",Sky Max HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794021
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringaction.al" tvg-name="Tring Action FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Action%20FHD%20AL%20(Copy).png" group-title="Albania",Tring Action FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794020
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tring Series HD AL" tvg-logo="" group-title="Albania",Tring Series HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794019
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Art Kino 1 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Art%20Kino%201%20HD%20AL%20(Copy).png" group-title="Albania",Art Kino 1 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794018
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Art Kino 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/art%20kino%202%20(Copy).png" group-title="Albania",Art Kino 2 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794017
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Art Kino 3 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/art%20kino%203%20(Copy).png" group-title="Albania",Art Kino 3 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794016
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Digi Gold 1 FHD AL" tvg-logo="" group-title="Albania",Digi Gold 1 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794015
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Digi Gold 2 FHD AL" tvg-logo="" group-title="Albania",Digi Gold 2 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794014
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Digi Gold 3 FHD AL" tvg-logo="" group-title="Albania",Digi Gold 3 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794013
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Digi Gold 4 FHD AL" tvg-logo="" group-title="Albania",Digi Gold 4 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794012
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Digi Gold FHD AL" tvg-logo="" group-title="Albania",Digi Gold FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794011
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Alb Action HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/action1%20(Copy).png" group-title="Albania",Alb Action HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794010
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Action FHD AL" tvg-logo="" group-title="Albania",Action FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794009
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Alb Thriller HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Alb%20Thriller%20HD%20AL%20(Copy).png" group-title="Albania",Alb Thriller HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Thriller FHD AL" tvg-logo="" group-title="Albania",Thriller FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794007
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Western FHD AL" tvg-logo="" group-title="Albania",Western FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794006
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="X Western HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/X%20Western%20HD%20AL%20(Copy).png" group-title="Albania",X Western HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794005
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Drama FHD AL" tvg-logo="" group-title="Albania",Drama FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794004
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanalddrama.al" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Kanal%20D%20Drama%20FHD%20AL%20(Copy).png" group-title="Albania",Kanal D Drama FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794003
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National Geographic FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/natgeo%20(Copy).png" group-title="Albania",National Geographic FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794002
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery Channel HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Discovery%20Channel%20AL%20(2)%20(Copy).png" group-title="Albania",Discovery Channel HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794001
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Animal Planet HD AL" tvg-logo="" group-title="Albania",Animal Planet HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/794000
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="exphistori.al" tvg-name="Exp Histori AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/X%20Histori%20HD%20AL%20(Copy).png" group-title="Albania",Exp Histori AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793999
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="exphistori.al" tvg-name="Exp Histori HD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_explorer_histori.png" group-title="Albania",Exp Histori HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793998
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="expnatyra.al" tvg-name="Exp Natyra AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/X%20Natyra%20HD%20AL%20(Copy).png" group-title="Albania",Exp Natyra AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793997
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="expnatyra.al" tvg-name="Exp Natyra HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Exp%20Natyra%20HD%20AL%20(Copy).jpg" group-title="Albania",Exp Natyra HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793996
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="expshkence.al" tvg-name="Exp Shkence AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Exp%20Shkence%20AL%20(Copy).png" group-title="Albania",Exp Shkence AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793995
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="travelchannel.al" tvg-name="Travel Channel HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Travel%20Channel%20HD%20AL%20(Copy).png" group-title="Albania",Travel Channel HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793994
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="living.al" tvg-name="Living FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Living%20FHD%20AL%20(Copy).png" group-title="Albania",Living FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793993
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="living.al" tvg-name="Living HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/living-tv-logo%20(1)%20(Copy).png" group-title="Albania",Living HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793992
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Doc 1 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Doc%202%20HD%20AL%20(Copy).png" group-title="Albania",Doc 1 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793991
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Doc 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Doc%202%20HD%20AL%20(Copy).png" group-title="Albania",Doc 2 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793990
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GEO HD AL" tvg-logo="" group-title="Albania",GEO HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793989
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="National Geo Wild HD AL" tvg-logo="" group-title="Albania",National Geo Wild HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793988
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bangbang.al" tvg-name="Bang Bang AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Bang%20Bang%20AL%20(Copy).png" group-title="Albania",Bang Bang AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793987
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtshfemijë.al" tvg-name="RTSH Fëmijë AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-femije-al.png" group-title="Albania",RTSH Fëmijë AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793986
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cufotv.al" tvg-name="Çufo AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/%c3%87ufo%20HD%20AL%20(Copy).png" group-title="Albania",Çufo AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793985
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cufotv.al" tvg-name="Çufo HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/%c3%87ufo%20HD%20AL%20(Copy).png" group-title="Albania",Çufo HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793984
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="juniortv.al" tvg-name="Junior TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Junior%20TV%20HD%20AL%20(Copy).png" group-title="Albania",Junior TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793983
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="RTV21 Junior HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albania",RTV21 Junior HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793982
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringtring.al" tvg-name="Tring Tring HD AL" tvg-logo="https://i.postimg.cc/J761F2jv/Tring-tring.png" group-title="Albania",Tring Tring HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793981
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Baby TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Baby%20TV%20AL%20(Copy).png" group-title="Albania",Baby TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793980
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Duck TV HD AL" tvg-logo="" group-title="Albania",Duck TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793979
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mymusic.al" tvg-name="My Music AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Music%20AL%20(Copy).png" group-title="Albania",My Music AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793978
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mymusic.al" tvg-name="My Music HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/My%20Music%20HD%20AL%20(Copy).png" group-title="Albania",My Music HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793977
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Alb Hits AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/hitsa%20(Copy).png" group-title="Albania",Alb Hits AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793976
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Alb Folk AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Alb%20Folk%20AL%20(Copy).png" group-title="Albania",Alb Folk AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793975
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Folk + FHD AL" tvg-logo="https://logo.m3uassets.com/folk.png" group-title="Albania",Folk + FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793974
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Folk + HD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/folk-plus-al.png" group-title="Albania",Folk + HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793973
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="STV Folk AL" tvg-logo="https://i.postimg.cc/x15dKzfW/STV-folk.png" group-title="Albania",STV Folk AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBF Music AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/BBF%20Music%20AL%20(Copy).png" group-title="Albania",BBF Music AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793971
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBF Music HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/BBF%20Music%20AL%20(Copy).png" group-title="Albania",BBF Music HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793970
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="muse.al" tvg-name="Muse AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Muse%20AL%20(Copy).png" group-title="Albania",Muse AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793969
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="jolly.al" tvg-name="Jolly AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/jolly%20(Copy).png" group-title="Albania",Jolly AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="jolly.al" tvg-name="Jolly FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/jolly%20(Copy).png" group-title="Albania",Jolly FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793967
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="20 HD AL" tvg-logo="" group-title="Albania",20 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793966
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24 Kitchen HD AL" tvg-logo="" group-title="Albania",24 Kitchen HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793965
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="A Mol TV HD AL" tvg-logo="" group-title="Albania",A Mol TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793964
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Alb Dreams HD AL" tvg-logo="" group-title="Albania",Alb Dreams HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793963
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Alb Kanale Music TV HD AL" tvg-logo="https://logo.m3uassets.com/albkanalemusictv.png" group-title="Albania",Alb Kanale Music TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793962
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AlbKanale Music TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Music%20AL%20(Copy).png" group-title="Albania",AlbKanale Music TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Albuk FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Albuk%20FHD%20AL%20(Copy).png" group-title="Albania",Albuk FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793960
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="alsatm.al" tvg-name="Alsat M AL" tvg-logo="https://i.postimg.cc/zBgJxkTW/Alsat-M.png" group-title="Albania",Alsat M AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="alsatm.al" tvg-name="Alsat M AL [EST]" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Alsat%20M%20AL%20%5bEST%5d%20(Copy).png" group-title="Albania",Alsat M AL [EST]
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793958
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="alsatm.al" tvg-name="Alsat M FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Alsat%20M%20FHD%20AL%20(Copy).png" group-title="Albania",Alsat M FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793957
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Art Doku 1 HD AL" tvg-logo="http://138.199.27.237:8080/ALBANIA/ARTANEWS.png" group-title="Albania",Art Doku 1 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Art Doku 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Art%20Doku%202%20HD%20AL%20(Copy).png" group-title="Albania",Art Doku 2 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Arta News FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Arta%20News%20FHD%20AL%20(Copy).png" group-title="Albania",Arta News FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793954
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.al" tvg-name="ATV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/ATV%20HD%20AL%20(Copy).png" group-title="Albania",ATV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC World HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/BBC%20World%20HD%20AL%20(Copy).png" group-title="Albania",BBC World HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793952
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Besa TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Besa%20TV%20AL%20(Copy).png" group-title="Albania",Besa TV AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793951
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Channel One FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Channel%20One%20FHD%20AL%20(Copy).png" group-title="Albania",Channel One FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793950
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CNA FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Dukagjini%20AL%20(Copy).png" group-title="Albania",CNA FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793949
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cnn A2 HD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a2-al.png" group-title="Albania",Cnn A2 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793948
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/dasma%20(Copy).png" group-title="Albania",Dasma TV AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793947
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dielli TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Dielli%20TV%20AL%20(Copy).png" group-title="Albania",Dielli TV AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793946
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dizi HD AL" tvg-logo="" group-title="Albania",Dizi HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793945
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Drita TV HD AL" tvg-logo="https://logo.m3uassets.com/dritatv.png" group-title="Albania",Drita TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793944
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvdukagjini.al" tvg-name="Dukagjini FHD AL" tvg-logo="https://s2.gifyu.com/images/DUKAGJINI.png" group-title="Albania",Dukagjini FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793943
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Elrodi TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Elrodi%20TV%20AL%20(Copy).png" group-title="Albania",Elrodi TV AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793942
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Elvis Naçi FHD AL" tvg-logo="" group-title="Albania",Elvis Naçi FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793941
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="family.al" tvg-name="Family FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/family-tv-logo%20(Copy).png" group-title="Albania",Family FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793940
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="faxnews.al" tvg-name="Fax News AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Fax%20News%20AL%20(Copy).png" group-title="Albania",Fax News AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793939
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Festa FHD AL" tvg-logo="" group-title="Albania",Festa FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793938
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="filmautor.al" tvg-name="Film Autor HD AL" tvg-logo="https://logo.m3uassets.com/filmautor.png" group-title="Albania",Film Autor HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793937
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="filmdrame.al" tvg-name="Film Dramë HD AL" tvg-logo="https://logo.m3uassets.com/filmdram.png" group-title="Albania",Film Dramë HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793936
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Film Stinet HD AL" tvg-logo="" group-title="Albania",Film Stinet HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793935
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="firstchannel.al" tvg-name="First Channel AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/First%20Channel%20AL%20(Copy).png" group-title="Albania",First Channel AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793934
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxcrime.al" tvg-name="Fox Crime AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Fox%20Crime%20AL%20(Copy).png" group-title="Albania",Fox Crime AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793933
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxlife.al" tvg-name="Fox Life AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/fox%20life%20(Copy).png" group-title="Albania",Fox Life AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793932
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxlife.al" tvg-name="Fox Life HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/fox%20life%20(Copy).png" group-title="Albania",Fox Life HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793931
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.al" tvg-name="Fox Movies AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Fox%20Movies%20AL%20(1)%20(Copy).png" group-title="Albania",Fox Movies AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793930
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.al" tvg-name="Fox TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Fox%20TV%20HD%20AL%20(Copy).png" group-title="Albania",Fox TV AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793929
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.al" tvg-name="Fox TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Fox%20TV%20HD%20AL%20(Copy).png" group-title="Albania",Fox TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793928
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Gold HD AL" tvg-logo="" group-title="Albania",Gold HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793927
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hindi 1 FHD AL" tvg-logo="" group-title="Albania",Hindi 1 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793926
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hindi 2 FHD AL" tvg-logo="" group-title="Albania",Hindi 2 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793925
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Islam FHD AL" tvg-logo="" group-title="Albania",Islam FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793924
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal10.al" tvg-name="Kanal 10 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/kanal_10_se%20(Copy).png" group-title="Albania",Kanal 10 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793923
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="klankosova.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/klan-kosova-al.png" group-title="Albania",Klan Kosova FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793922
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Klan Macedonia AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/klan-macedonia-al.png" group-title="Albania",Klan Macedonia AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793921
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Klan Macedonia HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/klan-macedonia-al.png" group-title="Albania",Klan Macedonia HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793920
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kopliku FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Kopliku%20FHD%20AL%20(Copy).png" group-title="Albania",Kopliku FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793919
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KS Filma24 Romance AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/KS%20Filma24%20Romance%20AL%20(Copy).png" group-title="Albania",KS Filma24 Romance AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793918
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ktv.al" tvg-name="KTV FHD AL" tvg-logo="http://138.199.27.237:8080/ALBANIA/KTVHD.png" group-title="Albania",KTV FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793917
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Max HD AL" tvg-logo="" group-title="Albania",Max HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793916
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Meka TV AL" tvg-logo="" group-title="Albania",Meka TV AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793915
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Mekke Live HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Mekke%20Live%20HD%20AL.png" group-title="Albania",Mekke Live HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793914
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MTV Kosova HD AL" tvg-logo="" group-title="Albania",MTV Kosova HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793913
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Opinioni AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/opinion%20(Copy).png" group-title="Albania",Opinioni AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793912
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="peacetv.al" tvg-name="Peace TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Peace%20TV%20AL%20(1)%20(Copy).png" group-title="Albania",Peace TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793911
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Premium 1 FHD AL" tvg-logo="" group-title="Albania",Premium 1 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793910
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Premium 2 FHD AL" tvg-logo="" group-title="Albania",Premium 2 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793909
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Premium 3 FHD AL" tvg-logo="" group-title="Albania",Premium 3 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793908
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Premium 4 FHD AL" tvg-logo="" group-title="Albania",Premium 4 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793907
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Premium 5 FHD AL" tvg-logo="" group-title="Albania",Premium 5 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793906
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtk1.al" tvg-name="RTK 1 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTK%201%20FHD%20AL%20(Copy).png" group-title="Albania",RTK 1 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793905
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtk.al" tvg-name="RTK 1 AL [EST]" tvg-logo="https://i.postimg.cc/FsKy1dvc/RTK-1.jpg" group-title="Albania",RTK 1 AL [EST]
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793904
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtk1.al" tvg-name="RTK 1 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTK%201%20FHD%20AL%20(Copy).png" group-title="Albania",RTK 1 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793903
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtk2.al" tvg-name="RTK 2 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTK%202%20AL%20(Copy).png" group-title="Albania",RTK 2 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793902
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtk3.al" tvg-name="RTK 3 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTK%203%20HD%20AL%20(Copy).png" group-title="Albania",RTK 3 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793901
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtk4.al" tvg-name="RTK 4 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rkt%204%20(Copy).png" group-title="Albania",RTK 4 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793900
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtshgjirokastra.al" tvg-name="RTSH Gjirokastra AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTSH%20Gjirokastra%20AL%20(Copy).png" group-title="Albania",RTSH Gjirokastra AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793899
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtshkorça.al" tvg-name="RTSH Korça AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTSH%20Kor%c3%a7a%20AL%20(Copy).png" group-title="Albania",RTSH Korça AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793898
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtshmuzikë.al" tvg-name="RTSH Muzike AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-muzike-al.png" group-title="Albania",RTSH Muzike AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793897
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtshmuzikë.al" tvg-name="RTSH Muzike HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-muzike-al.png" group-title="Albania",RTSH Muzike HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793896
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="RTSH Plus AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-plus-al.png" group-title="Albania",RTSH Plus AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793895
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtshshqip.al" tvg-name="RTSH Shqip AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtsh-shqip-al.png" group-title="Albania",RTSH Shqip AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793894
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtshshqip.al" tvg-name="RTSH Shqip HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtsh-shqip-al.png" group-title="Albania",RTSH Shqip HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793893
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="RTV Fontana HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTV%20Fontana%20HD%20AL%20(Copy).png" group-title="Albania",RTV Fontana HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793892
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="RTV Islam HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTV%20Islam%20AL.png" group-title="Albania",RTV Islam HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793891
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="RTV Pendimi HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTV%20Pendimi%20HD%20AL.png" group-title="Albania",RTV Pendimi HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793890
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtv21.al" tvg-name="RTV21 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTV21%20AL%20(Copy).png" group-title="Albania",RTV21 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793889
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtv21.al" tvg-name="RTV21 AL [EST]" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albania",RTV21 AL [EST]
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793888
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtv21m.al" tvg-name="RTV21 M AL [EST]" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tv21-logo-white%20(1)%20(Copy).png" group-title="Albania",RTV21 M AL [EST]
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793887
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtv21m.al" tvg-name="RTV21 M FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albania",RTV21 M FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793886
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtv21m.al" tvg-name="RTV21 Maqedonia AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTV21%20AL%20(Copy).png" group-title="Albania",RTV21 Maqedonia AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793885
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtv21m.al" tvg-name="RTV21 Mix AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/mix%2021%20(Copy).png" group-title="Albania",RTV21 Mix AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793884
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="RTV21 Mix FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albania",RTV21 Mix FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793883
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtshplus.al" tvg-name="RTV21 Plus HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albania",RTV21 Plus HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793882
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="RTV21 Popullore AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albania",RTV21 Popullore AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793881
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="RTV21 Popullore FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albania",RTV21 Popullore FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793880
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Scan TV FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/scan-tv-al.png" group-title="Albania",Scan TV FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793879
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Shqip FHD AL" tvg-logo="" group-title="Albania",Shqip FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793878
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky 7 HD AL" tvg-logo="" group-title="Albania",Sky 7 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793877
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Dramë AL" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbfilmdrame.png" group-title="Albania",Sky Dramë AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793876
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Novela HD AL" tvg-logo="" group-title="Albania",Sky Novela HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793875
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Planet HD AL" tvg-logo="" group-title="Albania",Sky Planet HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793874
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Shkence AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Sky%20Shkence%20AL%20(Copy).png" group-title="Albania",Sky Shkence AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793873
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Shqip HD AL" tvg-logo="" group-title="Albania",Sky Shqip HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793872
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Star HD AL" tvg-logo="" group-title="Albania",Sky Star HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793871
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sofia TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Sofia%20TV%20AL%20(Copy).png" group-title="Albania",Sofia TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793870
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Star Channel HD AL" tvg-logo="" group-title="Albania",Star Channel HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793869
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Star Crime HD AL" tvg-logo="" group-title="Albania",Star Crime HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793868
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Star Life HD AL" tvg-logo="" group-title="Albania",Star Life HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793867
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="stinet.al" tvg-name="Stinet AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Stinet%20AL%20(Copy).png" group-title="Albania",Stinet AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793866
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Supersonic TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Supersonic%20TV%20AL%20(Copy).gif" group-title="Albania",Supersonic TV AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793865
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="syritv.al" tvg-name="Syri TV AL" tvg-logo="http://logo.protv.cc/picons/logos/alalam.jpg" group-title="Albania",Syri TV AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793864
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="t.al" tvg-name="T AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/T%20AL%20(Copy).png" group-title="Albania",T AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793863
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="t.al" tvg-name="T FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/T%20AL%20(Copy).png" group-title="Albania",T FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793862
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="t.al" tvg-name="T HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/T%20AL%20(Copy).png" group-title="Albania",T HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793861
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="t7.al" tvg-name="T7 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/T7%20FHD%20AL%20(Copy).png" group-title="Albania",T7 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793860
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="t7.al" tvg-name="T7 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/T7%20FHD%20AL%20(Copy).png" group-title="Albania",T7 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793859
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TDC FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/TDC%20FHD%20AL%20(Copy).png" group-title="Albania",TDC FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793858
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tele One 3 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tele%203%20(Copy).png" group-title="Albania",Tele One 3 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793857
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tele One 4 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tele%204%20(Copy).png" group-title="Albania",Tele One 4 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793856
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tele One 5 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tele%205%20(Copy).png" group-title="Albania",Tele One 5 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793855
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tele One 6 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tele%206%20(Copy).png" group-title="Albania",Tele One 6 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793854
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tematv.al" tvg-name="Tema TV AL" tvg-logo="http://138.199.27.237:8080/ALBANIA/TEMATVAL.png" group-title="Albania",Tema TV AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793853
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve1.al" tvg-name="Teve 1 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Teve%201%20AL%20(Copy).png" group-title="Albania",Teve 1 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793852
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tiptv.al" tvg-name="Tip TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tip%20TV%20AL%20(Copy).png" group-title="Albania",Tip TV HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793851
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tirana TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tirana%20TV%20AL.png" group-title="Albania",Tirana TV AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793850
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TLC AL" tvg-logo="http://tugapt.com/picons/tlcnl.png" group-title="Albania",TLC AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793849
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sport3.al" tvg-name="Tring 3+ HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%203+%20HD%20AL%20(Copy).png" group-title="Albania",Tring 3+ HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793848
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringfantasy.al" tvg-name="Tring Fantasy AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tring_fantasy%20(Copy).png" group-title="Albania",Tring Fantasy AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793847
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringhistory.al" tvg-name="Tring History HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tring%20history%20(Copy).png" group-title="Albania",Tring History HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793846
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringkids.al" tvg-name="Tring Kids HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tringkids%20(Copy).png" group-title="Albania",Tring Kids HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793845
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringlife.al" tvg-name="Tring Life HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tring_life%20(Copy).png" group-title="Albania",Tring Life HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793844
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringplanet.al" tvg-name="Tring Planet HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Planet%20AL%20(Copy).png" group-title="Albania",Tring Planet HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793843
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringshqip.al" tvg-name="Tring Shqip HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Shqip%20AL%20(Copy).png" group-title="Albania",Tring Shqip HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793842
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tring Smile HD AL" tvg-logo="" group-title="Albania",Tring Smile HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793841
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringsuper.al" tvg-name="Tring Super FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Super%20FHD%20AL%20(Copy).png" group-title="Albania",Tring Super FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793840
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringworld.al" tvg-name="Tring World HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20World%20AL%20(Copy).png" group-title="Albania",Tring World HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793839
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tropoja TV FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tropoja%20TV%20FHD%20AL.png" group-title="Albania",Tropoja TV FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793838
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Turbo Channel HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Turbo%20Channel%20AL%20(Copy).png" group-title="Albania",Turbo Channel HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793837
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV Koha AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/TV%20Koha%20AL%20(Copy).png" group-title="Albania",TV Koha AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793836
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvmitrovica.al" tvg-name="TV Mitrovica AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/TV%20Mitrovica%20AL%20(Copy).png" group-title="Albania",TV Mitrovica AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793835
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV Opoja HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/TV%20Opoja%20HD%20AL%20(Copy).png" group-title="Albania",TV Opoja HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793834
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV Prizreni HD AL" tvg-logo="https://logo.m3uassets.com/tvprizreni.png" group-title="Albania",TV Prizreni HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793833
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV Shenja AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/TV%20Shenja%20AL%20(Copy).png" group-title="Albania",TV Shenja AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793832
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TVSH AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/TVSH%20(Copy).png" group-title="Albania",TVSH AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793831
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VOXup AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/VOXup%20AL%20(Copy).png" group-title="Albania",VOXup AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793830
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="WebStar Aksion HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/webstar%20aksion%20(Copy).png" group-title="Albania",WebStar Aksion HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793829
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="X Family HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/X%20Family%20HD%20AL%20(Copy).png" group-title="Albania",X Family HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793828
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="X Natyra HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/X%20Natyra%20HD%20AL%20(Copy).png" group-title="Albania",X Natyra HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793827
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="X Romance HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/X%20Romance%20HD%20AL%20(Copy).png" group-title="Albania",X Romance HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793826
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zicotv.al" tvg-name="Zico TV FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Zico%20TV%20FHD%20AL%20(Copy).png" group-title="Albania",Zico TV FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793825
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Zjarr TV FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Zjarr%20TV%20FHD%20AL%20(Copy).png" group-title="Albania",Zjarr TV FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793824
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport2.al" tvg-name="Super Sport 2 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-2-al.png" group-title="Albania",Super Sport 2 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793823
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport2.al" tvg-name="Super Sport 2 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-2-al.png" group-title="Albania",Super Sport 2 FHD AL [Multi-Audio]
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793822
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport2.al" tvg-name="Super Sport 2 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-2-al.png" group-title="Albania",Super Sport 2 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793821
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport3.al" tvg-name="Super Sport 3 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-3-al.png" group-title="Albania",Super Sport 3 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793820
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport3.al" tvg-name="Super Sport 3 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-3-al.png" group-title="Albania",Super Sport 3 FHD AL [Multi-Audio]
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793819
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport3.al" tvg-name="Super Sport 3 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-3-al.png" group-title="Albania",Super Sport 3 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793818
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport4.al" tvg-name="Super Sport 4 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-4-al.png" group-title="Albania",Super Sport 4 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793817
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport4.al" tvg-name="Super Sport 4 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-4-al.png" group-title="Albania",Super Sport 4 FHD AL [Multi-Audio]
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793816
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport4.al" tvg-name="Super Sport 4 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-4-al.png" group-title="Albania",Super Sport 4 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793815
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sport5.al" tvg-name="Super Sport 5 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-5-al.png" group-title="Albania",Super Sport 5 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793814
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport5.al" tvg-name="Super Sport 5 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-5-al.png" group-title="Albania",Super Sport 5 FHD AL [Multi-Audio]
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793813
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport5.al" tvg-name="Super Sport 5 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-5-al.png" group-title="Albania",Super Sport 5 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793812
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport6.al" tvg-name="Super Sport 6 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-6-al.png" group-title="Albania",Super Sport 6 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793811
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport6.al" tvg-name="Super Sport 6 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-6-al.png" group-title="Albania",Super Sport 6 FHD AL [Multi-Audio]
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793810
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport6.al" tvg-name="Super Sport 6 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-6-al.png" group-title="Albania",Super Sport 6 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793809
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport7.al" tvg-name="Super Sport 7 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-7-al.png" group-title="Albania",Super Sport 7 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793808
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport7.al" tvg-name="Super Sport 7 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-7-al.png" group-title="Albania",Super Sport 7 FHD AL [Multi-Audio]
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793807
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportkosova1.al" tvg-name="Super Sport Kosova 1 FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-kosova-1-al.png" group-title="Albania",Super Sport Kosova 1 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793806
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportkosova1.al" tvg-name="Super Sport Kosova 1 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-kosova-1-al.png" group-title="Albania",Super Sport Kosova 1 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793805
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportkosova2.al" tvg-name="Super Sport Kosova 2 FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-kosova-2-al.png" group-title="Albania",Super Sport Kosova 2 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793804
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportkosova2.al" tvg-name="Super Sport Kosova 2 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-kosova-2-al.png" group-title="Albania",Super Sport Kosova 2 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793803
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportnews.al" tvg-name="Super Sport News AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-1-al.png" group-title="Albania",Super Sport News AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793802
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersport1.al" tvg-name="Super Sport News FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-1-al.png" group-title="Albania",Super Sport News FHD AL [Multi-Audio]
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793801
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportnews.al" tvg-name="Super Sport News HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-1-al.png" group-title="Albania",Super Sport News HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793800
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringsport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Sport%201%20FHD%20AL%20(Copy).png" group-title="Albania",Tring Sport 1 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793799
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="arenasport2.al" tvg-name="Tring Sport 1 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Sport%201%20FHD%20AL%20(Copy).png" group-title="Albania",Tring Sport 1 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793798
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringsport2.al" tvg-name="Tring Sport 2 AL" tvg-logo="https://i.postimg.cc/P5jz1f1t/Tring-al-sport-2.png" group-title="Albania",Tring Sport 2 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793797
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringsport2.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Sport%202%20FHD%20AL%20(Copy).png" group-title="Albania",Tring Sport 2 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793796
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringsport2.al" tvg-name="Tring Sport 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Sport%202%20FHD%20AL%20(Copy).png" group-title="Albania",Tring Sport 2 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793795
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringsport3.al" tvg-name="Tring Sport 3 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tring%20sport%203%20(Copy).png" group-title="Albania",Tring Sport 3 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793794
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringsport3.al" tvg-name="Tring Sport 3 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tring%20sport%203%20(Copy).png" group-title="Albania",Tring Sport 3 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793793
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringsport4.al" tvg-name="Tring Sport 4 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tring%20sport%204%20(Copy).png" group-title="Albania",Tring Sport 4 AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793792
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tringsport4.al" tvg-name="Tring Sport 4 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Sport%204%20AL%20(Copy).png" group-title="Albania",Tring Sport 4 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793791
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tring Sport News HD AL" tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORTNEWS.png" group-title="Albania",Tring Sport News HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793790
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kujtesa Sport 1 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/kujtesa-1%20(Copy).png" group-title="Albania",Kujtesa Sport 1 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793789
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kujtesa Sport 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/kutja%20sort%20(Copy).png" group-title="Albania",Kujtesa Sport 2 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793788
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kujtesa Sport 3 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Kujtesa%20Sport%203%20HD%20AL%20(Copy).png" group-title="Albania",Kujtesa Sport 3 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793787
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="k-sport4.al" tvg-name="Kujtesa Sport 4 HD AL" tvg-logo="https://i.postimg.cc/hv04w0ZZ/Kujtesa-Sport.jpg" group-title="Albania",Kujtesa Sport 4 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793786
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ksport1.al" tvg-name="K Sport 1 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/k-sport-1-kosovo%20(Copy).png" group-title="Albania",K Sport 1 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793785
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ksport2.al" tvg-name="K Sport 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/k%20sport%202%20(Copy).png" group-title="Albania",K Sport 2 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793784
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ksport3.al" tvg-name="K Sport 3 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/K%20Sport%203%20HD%20AL%20(Copy).png" group-title="Albania",K Sport 3 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793783
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ksport4.al" tvg-name="K Sport 4 HD AL" tvg-logo="https://i.postimg.cc/hv04w0ZZ/Kujtesa-Sport.jpg" group-title="Albania",K Sport 4 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793782
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtshsport.al" tvg-name="RTSH Sport AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-sport-al.png" group-title="Albania",RTSH Sport AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793781
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rtshsport.al" tvg-name="RTSH Sport FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-sport-al.png" group-title="Albania",RTSH Sport FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793780
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport.al" tvg-name="Eurosport 1 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/EUROSPORT-1%20(Copy).png" group-title="Albania",Eurosport 1 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793779
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EuroSport 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Eurosport%202%20AL%20(Copy).png" group-title="Albania",EuroSport 2 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793778
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Art Sport 1 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Art%20Sport%201%20FHD%20AL%20(Copy).png" group-title="Albania",Art Sport 1 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793777
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Art Sport 2 FHD AL" tvg-logo="https://i.pinimg.com/originals/0c/4c/ce/0c4cce090968740942de1de4e0bd0a93.png" group-title="Albania",Art Sport 2 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793776
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Art Sport 3 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Art%20Sport%203%20FHD%20AL%20(Copy).png" group-title="Albania",Art Sport 3 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793775
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Art Sport 4 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Art%20Sport%204%20FHD%20AL%20(Copy).png" group-title="Albania",Art Sport 4 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793774
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Art Sport 5 FHD AL" tvg-logo="https://i.postimg.cc/9QGNGpzW/ART_Sport_5.png" group-title="Albania",Art Sport 5 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793773
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/artSport.png" group-title="Albania",Art Sport 6 FHD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793772
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Doc Sport HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Doc%20Sport%20HD%20AL%20(Copy).png" group-title="Albania",Doc Sport HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793771
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sport 1 HD AL" tvg-logo="http://xplatinmedia.com:8080/images/f188211c43989bec73ede1504fab6cb7.png" group-title="Albania",Sport 1 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793770
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sport 2 HD AL" tvg-logo="" group-title="Albania",Sport 2 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793769
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sport 3 HD AL" tvg-logo="" group-title="Albania",Sport 3 HD AL
+http://proxpanel.live:80/zhp3NNHP/fNGkEnN/793768
+
+
+
 #EXTINF:-1 group-title="KOMBETARE",--------------------------------------
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AL| Big Brother 1 FHD" tvg-logo="" group-title="Albania",AL| Big Brother 1 FHD
 http://proxpanel.live:80/zhp3NNHP/fNGkEnN/691074
@@ -2159,4 +2766,5 @@ http://proxpanel.live:80/zhp3NNHP/fNGkEnN/661557
 http://proxpanel.live:80/zhp3NNHP/fNGkEnN/661556
 #EXTINF:-1,|IT| SKY FRISBEE MINI
 http://proxpanel.live:80/zhp3NNHP/fNGkEnN/661555
+
 
